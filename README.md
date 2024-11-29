@@ -348,6 +348,9 @@
 - using that access token in header, we cna make calls to our APIs which are behind APIM.
 
 - before below steps we need to build trust using ist and 2nd point above
+
+  ![image](https://github.com/user-attachments/assets/c1dbc45f-afff-4890-b8f4-32c8265d0bab)
+
     client app (react/angular/postman) ------------> APIM (using token url)  ------------> return token to client app (react/angular/postman) 
     client app (react/angular/postman)  ------------> make call to APIs using access token
                     
