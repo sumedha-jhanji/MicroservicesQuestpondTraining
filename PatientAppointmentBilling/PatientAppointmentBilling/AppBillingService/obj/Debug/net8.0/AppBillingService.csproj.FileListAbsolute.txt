@@ -1,0 +1,14 @@
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\bin\Debug\net8.0\AppBillingService.exe
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\bin\Debug\net8.0\AppBillingService.deps.json
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\bin\Debug\net8.0\AppBillingService.runtimeconfig.json
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\bin\Debug\net8.0\AppBillingService.dll
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\bin\Debug\net8.0\AppBillingService.pdb
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\obj\Debug\net8.0\AppBillingService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\obj\Debug\net8.0\AppBillingService.AssemblyInfoInputs.cache
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\obj\Debug\net8.0\AppBillingService.AssemblyInfo.cs
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\obj\Debug\net8.0\AppBillingService.csproj.CoreCompileInputs.cache
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\obj\Debug\net8.0\AppBillingService.dll
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\obj\Debug\net8.0\refint\AppBillingService.dll
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\obj\Debug\net8.0\AppBillingService.pdb
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\obj\Debug\net8.0\AppBillingService.genruntimeconfig.cache
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppBillingService\obj\Debug\net8.0\ref\AppBillingService.dll

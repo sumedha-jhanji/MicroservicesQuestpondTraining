@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B60E720-ADA0-4467-973B-231AC671D6E9}|AppCQRSModel\\AppCQRS.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\patientappointmentbilling\\patientappointmentbilling\\appcqrsmodel\\repositoryeventsourcing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B60E720-ADA0-4467-973B-231AC671D6E9}|AppCQRSModel\\AppCQRS.csproj|solutionrelative:appcqrsmodel\\repositoryeventsourcing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B60E720-ADA0-4467-973B-231AC671D6E9}|AppCQRSModel\\AppCQRS.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\patientappointmentbilling\\patientappointmentbilling\\appcqrsmodel\\eventsourcingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B60E720-ADA0-4467-973B-231AC671D6E9}|AppCQRSModel\\AppCQRS.csproj|solutionrelative:appcqrsmodel\\eventsourcingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126C65F0-8D1F-4B74-A7AF-602EAC4F890E}|PatientAppointmentBilling\\PatientAppointmentBilling.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\patientappointmentbilling\\patientappointmentbilling\\patientappointmentbilling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126C65F0-8D1F-4B74-A7AF-602EAC4F890E}|PatientAppointmentBilling\\PatientAppointmentBilling.csproj|solutionrelative:patientappointmentbilling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4618C2DD-91F6-4B1E-9277-A9CD44C420CC}|AppointmentBillingModel\\AppointmentBillingDomainModel.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\patientappointmentbilling\\patientappointmentbilling\\appointmentbillingmodel\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4618C2DD-91F6-4B1E-9277-A9CD44C420CC}|AppointmentBillingModel\\AppointmentBillingDomainModel.csproj|solutionrelative:appointmentbillingmodel\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B60E720-ADA0-4467-973B-231AC671D6E9}|AppCQRSModel\\AppCQRS.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\patientappointmentbilling\\patientappointmentbilling\\appcqrsmodel\\commandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B60E720-ADA0-4467-973B-231AC671D6E9}|AppCQRSModel\\AppCQRS.csproj|solutionrelative:appcqrsmodel\\commandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B60E720-ADA0-4467-973B-231AC671D6E9}|AppCQRSModel\\AppCQRS.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\patientappointmentbilling\\patientappointmentbilling\\appcqrsmodel\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B60E720-ADA0-4467-973B-231AC671D6E9}|AppCQRSModel\\AppCQRS.csproj|solutionrelative:appcqrsmodel\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientModel.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\AppointmentBillingModel\\PatientModel.cs",
+              "RelativeDocumentMoniker": "AppointmentBillingModel\\PatientModel.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\AppointmentBillingModel\\PatientModel.cs",
+              "RelativeToolTip": "AppointmentBillingModel\\PatientModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:29:31.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryEventSourcing.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\AppCQRSModel\\RepositoryEventSourcing.cs",
+              "RelativeDocumentMoniker": "AppCQRSModel\\RepositoryEventSourcing.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\AppCQRSModel\\RepositoryEventSourcing.cs",
+              "RelativeToolTip": "AppCQRSModel\\RepositoryEventSourcing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:08:44.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventSourcingModel.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\AppCQRSModel\\EventSourcingModel.cs",
+              "RelativeDocumentMoniker": "AppCQRSModel\\EventSourcingModel.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\AppCQRSModel\\EventSourcingModel.cs",
+              "RelativeToolTip": "AppCQRSModel\\EventSourcingModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAArwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:44:41.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandModel.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\AppCQRSModel\\CommandModel.cs",
+              "RelativeDocumentMoniker": "AppCQRSModel\\CommandModel.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\AppCQRSModel\\CommandModel.cs",
+              "RelativeToolTip": "AppCQRSModel\\CommandModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:22:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\PatientAppointmentBilling\\Program.cs",
+              "RelativeDocumentMoniker": "PatientAppointmentBilling\\Program.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\PatientAppointmentBilling\\Program.cs",
+              "RelativeToolTip": "PatientAppointmentBilling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:48:01.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\AppCQRSModel\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "AppCQRSModel\\BaseCommand.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\PatientAppointmentBilling\\PatientAppointmentBilling\\AppCQRSModel\\BaseCommand.cs",
+              "RelativeToolTip": "AppCQRSModel\\BaseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:24:27.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

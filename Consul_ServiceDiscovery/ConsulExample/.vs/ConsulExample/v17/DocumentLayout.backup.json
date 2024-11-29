@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Consul_ServiceDiscovery\\ConsulExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8244B8-44A4-4826-8B54-563C700B2CD5}|ConsulExample\\ConsulExample.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\consul_servicediscovery\\consulexample\\consulexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8244B8-44A4-4826-8B54-563C700B2CD5}|ConsulExample\\ConsulExample.csproj|solutionrelative:consulexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8244B8-44A4-4826-8B54-563C700B2CD5}|ConsulExample\\ConsulExample.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\consul_servicediscovery\\consulexample\\consulexample\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8244B8-44A4-4826-8B54-563C700B2CD5}|ConsulExample\\ConsulExample.csproj|solutionrelative:consulexample\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8244B8-44A4-4826-8B54-563C700B2CD5}|ConsulExample\\ConsulExample.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\consul_servicediscovery\\consulexample\\consulexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C8244B8-44A4-4826-8B54-563C700B2CD5}|ConsulExample\\ConsulExample.csproj|solutionrelative:consulexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Consul_ServiceDiscovery\\ConsulExample\\ConsulExample\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsulExample\\appsettings.json",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Consul_ServiceDiscovery\\ConsulExample\\ConsulExample\\appsettings.json",
+              "RelativeToolTip": "ConsulExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T09:44:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Consul_ServiceDiscovery\\ConsulExample\\ConsulExample\\Program.cs",
+              "RelativeDocumentMoniker": "ConsulExample\\Program.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Consul_ServiceDiscovery\\ConsulExample\\ConsulExample\\Program.cs",
+              "RelativeToolTip": "ConsulExample\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:44:45.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Consul_ServiceDiscovery\\ConsulExample\\ConsulExample\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ConsulExample\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Consul_ServiceDiscovery\\ConsulExample\\ConsulExample\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ConsulExample\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:41:55.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

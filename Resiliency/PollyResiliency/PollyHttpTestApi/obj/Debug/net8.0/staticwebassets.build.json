@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rE9V00BH64uavbIh8mkPtUiRR6y++89b2KQs0MzuJIA=",
+  "Source": "PollyHttpTestApi",
+  "BasePath": "_content/PollyHttpTestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

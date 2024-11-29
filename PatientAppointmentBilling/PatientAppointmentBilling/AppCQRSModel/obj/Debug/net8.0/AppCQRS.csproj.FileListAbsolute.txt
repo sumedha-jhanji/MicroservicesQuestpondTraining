@@ -1,0 +1,15 @@
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\bin\Debug\net8.0\AppCQRS.deps.json
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\bin\Debug\net8.0\AppCQRS.dll
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\bin\Debug\net8.0\AppCQRS.pdb
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\obj\Debug\net8.0\AppCQRS.csproj.AssemblyReference.cache
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\obj\Debug\net8.0\AppCQRS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\obj\Debug\net8.0\AppCQRS.AssemblyInfoInputs.cache
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\obj\Debug\net8.0\AppCQRS.AssemblyInfo.cs
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\obj\Debug\net8.0\AppCQRS.csproj.CoreCompileInputs.cache
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\obj\Debug\net8.0\AppCQRS.dll
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\obj\Debug\net8.0\refint\AppCQRS.dll
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\obj\Debug\net8.0\AppCQRS.pdb
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\obj\Debug\net8.0\ref\AppCQRS.dll
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\bin\Debug\net8.0\AppointmentBillingDomainModel.dll
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\bin\Debug\net8.0\AppointmentBillingDomainModel.pdb
+D:\Study Material\Microservices\Questpond\SourceCode\PatientAppointmentBilling\PatientAppointmentBilling\AppCQRSModel\obj\Debug\net8.0\AppCQRS.csproj.Up2Date

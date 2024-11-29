@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Resiliency\\PollyResiliency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74D136EF-7FA2-4247-978A-B5B67271C863}|PollyResiliency\\PollyResiliency.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\resiliency\\pollyresiliency\\pollyresiliency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D136EF-7FA2-4247-978A-B5B67271C863}|PollyResiliency\\PollyResiliency.csproj|solutionrelative:pollyresiliency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D136EF-7FA2-4247-978A-B5B67271C863}|PollyResiliency\\PollyResiliency.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\resiliency\\pollyresiliency\\pollyresiliency\\pollyexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D136EF-7FA2-4247-978A-B5B67271C863}|PollyResiliency\\PollyResiliency.csproj|solutionrelative:pollyresiliency\\pollyexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65B9785-81C7-4A20-A8DD-4579C0C30DEE}|PollyHttpTestApi\\PollyHttpTestApi.csproj|d:\\study material\\microservices\\questpond\\sourcecode\\resiliency\\pollyresiliency\\pollyhttptestapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65B9785-81C7-4A20-A8DD-4579C0C30DEE}|PollyHttpTestApi\\PollyHttpTestApi.csproj|solutionrelative:pollyhttptestapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Resiliency\\PollyResiliency\\PollyHttpTestApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "PollyHttpTestApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Resiliency\\PollyResiliency\\PollyHttpTestApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "PollyHttpTestApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:16:07.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PollyExample.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Resiliency\\PollyResiliency\\PollyResiliency\\PollyExample.cs",
+              "RelativeDocumentMoniker": "PollyResiliency\\PollyExample.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Resiliency\\PollyResiliency\\PollyResiliency\\PollyExample.cs",
+              "RelativeToolTip": "PollyResiliency\\PollyExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:03:35.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Resiliency\\PollyResiliency\\PollyResiliency\\Program.cs",
+              "RelativeDocumentMoniker": "PollyResiliency\\Program.cs",
+              "ToolTip": "D:\\Study Material\\Microservices\\Questpond\\SourceCode\\Resiliency\\PollyResiliency\\PollyResiliency\\Program.cs",
+              "RelativeToolTip": "PollyResiliency\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAApwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:01:44.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
