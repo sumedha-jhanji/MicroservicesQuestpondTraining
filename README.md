@@ -74,7 +74,7 @@
 - This is using inversion of control.
   
 
-- **Note: Summary**
+## Summary
     Microservice -> follow DDD -> identify core domain, subdomain, generic domain -> in each domain, define bounded context-> each context should follow ubiquitous language.
 
 ## CQRS
@@ -93,7 +93,7 @@
 ## Commands & Handlers linking
 - we can do using either by 
     - using internal DI
-    -**OR**
+    - **OR**
     - using MediatR
 
 ## MediatR
