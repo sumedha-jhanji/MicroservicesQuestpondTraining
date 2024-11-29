@@ -258,7 +258,7 @@
 - Rathen than providing this constant time we can use any alogorithm so that this pause time or retry time will be increase value fo last pause time like for first 2 seconds, then 4 seconds, 8 seconds and so on
 - example code to do that -> TimeSpan.FromSeconds(Math.Pow(2, x))
 
-## SERVICE DISCOVERY -> Open source for this is CONSUL ( we can use Kubernates also rather than consul or Axure service discovery)
+## SERVICE DISCOVERY - Open source for this is CONSUL ( we can use Kubernates also rather than consul or Axure service discovery)
 - place where we want to dicover a service
 - we need to locate the API from centralized location.
     - We should give a name, it will search a service
