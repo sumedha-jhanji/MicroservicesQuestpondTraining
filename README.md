@@ -33,9 +33,9 @@
         
  - Follow ubiquitous language -> when user is saying patient (context) in terms of billing, u also should consider the patinet in terms of billing context only. i.e context should be same for calling and caller. 
 
-## Context Map -> how to map the entity from one context will map to entity in other context.
-    - Strategic Design - will define how bounded contexts will talk with each other
-    - Tactical Design - inside the bounded context, what is the approach like in context, we write DB, repository pattern, aggregarte root etc.
+## Context Map - how to map the entity from one context will map to entity in other context.
+- Strategic Design - will define how bounded contexts will talk with each other
+- Tactical Design - inside the bounded context, what is the approach like in context, we write DB, repository pattern, aggregarte root etc.
 
 ## Upstream 
 - supplier of things or data
