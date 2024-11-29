@@ -267,76 +267,76 @@
 
 - Steps to use CONSUL
   - To register service to consul discovery
-          - download exe from https://developer.hashicorp.com/consul/install
-          - in cmd-> run "consul agent -dev" -> it will run it for dev environment. -. it runs on 8500 port (localhost:8500)
-          - We need to add nuget -> consul in project
-          - in appsettins.json, provide consul configuration as below:
-          ```csharp
-              "Consul": {
-                  "Host": "localhost",
-                  "Port":  8500
+      - download exe from https://developer.hashicorp.com/consul/install
+      - in cmd,  "run "consul agent -dev"" - it will run it for dev environment. -. it runs on 8500 port (localhost:8500)
+      - We need to add nuget - consul in project
+      - in appsettins.json, provide consul configuration as below:
+      ```csharp
+          "Consul": {
+              "Host": "localhost",
+              "Port":  8500
+          }
+      ```
+      - We need to register the consul and use the same.
+      ```csharp
+          builder.Services.AddSingleton<IConsulClient, ConsulClient>(p => new ConsulClient(consulConfig =>
+          {
+              var consulHost = builder.Configuration["Consul:Host"];
+              var consulPort = Convert.ToInt32(builder.Configuration["Consul:Port"]);
+              consulConfig.Address = new Uri($"http://{consulHost}:{consulPort}");
+    
+          }));
+    
+          var consulClient = app.Services.GetRequiredService<IConsulClient>();
+          var registration = new AgentServiceRegistration()
+          {
+              ID = "my-service-id",
+              Name = "my-service-name",
+              Address = "localhost",
+              Port = 7062,
+              Check = new AgentServiceCheck // to let know that where health check can be done.
+              {
+                  HTTP = "http://localhost:7062/health",
+                  Interval = TimeSpan.FromSeconds(10), // every 10 min interval, it will keep checking the service.
+                  Timeout = TimeSpan.FromSeconds(5)
               }
-          ```
-          - We need to register the consul and use the same.
-          ```csharp
-              builder.Services.AddSingleton<IConsulClient, ConsulClient>(p => new ConsulClient(consulConfig =>
-              {
-                  var consulHost = builder.Configuration["Consul:Host"];
-                  var consulPort = Convert.ToInt32(builder.Configuration["Consul:Port"]);
-                  consulConfig.Address = new Uri($"http://{consulHost}:{consulPort}");
-
-              }));
-
-              var consulClient = app.Services.GetRequiredService<IConsulClient>();
-              var registration = new AgentServiceRegistration()
-              {
-                  ID = "my-service-id",
-                  Name = "my-service-name",
-                  Address = "localhost",
-                  Port = 7062,
-                  Check = new AgentServiceCheck // to let know that where health check can be done.
-                  {
-                      HTTP = "http://localhost:7062/health",
-                      Interval = TimeSpan.FromSeconds(10), // every 10 min interval, it will keep checking the service.
-                      Timeout = TimeSpan.FromSeconds(5)
-                  }
-                  //2 ways either agent keeps pinging to check if service is up and running or we can dispose the service
-              };
-
-              await consulClient.Agent.ServiceRegister(registration);
-             ```
-
-        - Tor health check
+              //2 ways either agent keeps pinging to check if service is up and running or we can dispose the service
+          };
+    
+          await consulClient.Agent.ServiceRegister(registration);
+         ```
+    
+    - Tor health check
+    ```csharp
+        //for health Check
+        [HttpGet("/health")]
+        public IActionResult HealthCheck()
+        {
+            //health chekc logic
+            return Ok();
+        }
+    ```
+    - Code to discover the service and query the same via a client app
+        - install consul nuget package
         ```csharp
-            //for health Check
-            [HttpGet("/health")]
-            public IActionResult HealthCheck()
-            {
-                //health chekc logic
-                return Ok();
-            }
-        ```
-        - Code to discover the service and query the same via a client app
-            - install consul nuget package
-            ```csharp
-            var consulClient = new ConsulClient();
-
-            //specify the service name to discovery
-            string serviceName = "my-service-name";
-
-            //Query consul for healthy instance of the services
-            var services = consulClient.Health.Service(serviceName, tag: null, passingOnly: true).Result.Response;
-
-            //Iterate through the discovered services.
-            foreach (var service in services)
-            {
-                var serviceAddress = service.Service.Address;
-                var servicePort = service.Service.Port;
-
-                Console.WriteLine($"Found service at {serviceAddress}:{servicePort}");
-                // we can use the serviceaddress and port to communicate with discovered service.
-            }
-           ```
+        var consulClient = new ConsulClient();
+    
+        //specify the service name to discovery
+        string serviceName = "my-service-name";
+    
+        //Query consul for healthy instance of the services
+        var services = consulClient.Health.Service(serviceName, tag: null, passingOnly: true).Result.Response;
+    
+        //Iterate through the discovered services.
+        foreach (var service in services)
+        {
+            var serviceAddress = service.Service.Address;
+            var servicePort = service.Service.Port;
+    
+            Console.WriteLine($"Found service at {serviceAddress}:{servicePort}");
+            // we can use the serviceaddress and port to communicate with discovered service.
+        }
+       ```
 
 
 ## Steps to use APIM where client wil be eithetr postman/react/angukar app
